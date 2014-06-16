@@ -1,0 +1,33 @@
+{
+    "Number": "000042",    
+    "Date": "2014-06-10T00:00:00.00Z",
+	"ClientName": "Some Company Inc.",
+	"ClientContact":"Some Person",
+	"ClientStreet": "123 Any street",   
+	"ClientCity":  "Anytown",    
+	"ClientProvince": "AnyProv",
+	"ClientPostal":  "A0A 1B1", 
+    "Note": "",
+    "LineItems":  [
+        {
+            "Description": "Coded $FEATURE",
+            "Rate": 7500,
+            "Quantity": 8,
+            "TaxRate": 5
+        },
+        {
+            "Description": "Setup production site for  $APP",
+            "Rate": 7500,
+            "Quantity": 4,
+            "TaxRate": 5
+        },
+        {
+            "Description": "Coded $OTHERFEATURE",
+            "Rate": 7500,
+            "Quantity": 4,
+            "TaxRate": 5
+        }
+    ],
+    "Payments": [
+    ]
+}
